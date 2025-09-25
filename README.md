@@ -4,13 +4,13 @@ This project is a full-stack web application built using React js for the fronte
 
 ## User Interface Screenshots 
 #### Dashboard
-![Dashboard](./frontend/public/ss/dashboard.png)
+![Dashboard](./dashboard.png)
 
 #### Books
-![Dashboard](./frontend/public/ss/books.png)
+![Dashboard](./books.png)
 
 #### Authors
-![Dashboard](./frontend/public/ss/authors.png)
+![Dashboard](./authors.png)
 
 
 ## Connecting to private EC2 instance via a bastion host
